@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189797188339",
+    "firebase_url": "https://careclimate-95ea3-default-rtdb.firebaseio.com",
+    "project_id": "careclimate-95ea3",
+    "storage_bucket": "careclimate-95ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189797188339:android:e761842cc4b47c1993ed86",
+        "android_client_info": {
+          "package_name": "com.example.careclimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189797188339-6ov0ro315gd6ffmm03hcsic1roc8ougb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.careclimate",
+            "certificate_hash": "d6008b308ec755154c5aada7de2ddc07e7ec1269"
+          }
+        },
+        {
+          "client_id": "189797188339-jksggged26vdejtuor4ajp905cia871l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2d7P41qBnxYi2ZAkrGGWnX4XXV29fxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189797188339-jksggged26vdejtuor4ajp905cia871l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189797188339-qcjfa7n9a9574o5fcap2bufqv4dqdsua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.careclimate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
